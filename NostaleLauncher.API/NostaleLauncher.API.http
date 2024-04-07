@@ -1,0 +1,6 @@
+@NostaleLauncher.API_HostAddress = http://localhost:5058
+
+GET {{NostaleLauncher.API_HostAddress}}/user/test
+Accept: application/json
+
+###
